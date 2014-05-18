@@ -1,5 +1,5 @@
 <?php
-/** php Export CSV abstract class,根据总记录数与每批次记录数,计算总批次,循环导出。
+/** Export CSV abstract class,根据总记录数与每批次记录数,计算总批次,循环导出。
 *   Date:   2014-05-16
 *   Author: fdipzone
 *   Ver:    1.0
